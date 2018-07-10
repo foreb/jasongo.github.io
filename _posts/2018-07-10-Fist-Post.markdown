@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "First Post of my Blog"
+date:   2018-07-10 10:28:05 +0900
+categories: common 
+---
+
+새롭게 블로그를 열었다. 
+
+앞으로 공부한 내용들을 정리할 예정이고, 주된 주제는 ML과 DL에 대한 포스팅이 될 것 같다. 
+
+일단은 요즘 공부하는 Attention Model부터 정리해볼 예정. 
